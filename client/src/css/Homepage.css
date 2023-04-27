@@ -1,0 +1,40 @@
+.homepage-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-left: 0px;
+    
+  }
+  
+  .typewriter-container {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo-container {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .typewriter {
+    text-align: center;
+  }
+
+
+.container {
+  height: 100%;
+
+}
+
+  .homepage-container {
+    width: 100vw;
+    padding-right: 3rem;
+    padding-top: 15rem;
+  }
+    
+  
